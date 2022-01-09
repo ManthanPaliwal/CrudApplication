@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "Manthan Paliwal",
+      "username": "Paliwal123",
+      "email": "manthanpaliwal01@gmail.com",
+      "phone": "09691649667",
+      "website": "crudapplication",
+      "id": 1
+    },
+    {
+      "name": "karan paliwal",
+      "username": "paliwalkaran321",
+      "email": "karanpaliwalji123@gmail.com",
+      "phone": "1212457896",
+      "website": "karnawebsite",
+      "id": 2
+    }
+  ]
+}
